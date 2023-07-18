@@ -1,3 +1,7 @@
+<script setup>
+import Hero from "../components/Hero.vue";
+</script>
+
 <template>
-  <div class="text-center">Home</div>
+  <Hero />
 </template>
